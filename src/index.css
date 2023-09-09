@@ -1,0 +1,10 @@
+* {
+  font-family: 'Share Tech Mono';
+}
+
+body{
+  background-image: url("././assets/background.png");
+  background-color: rgb(35, 35, 35);
+  background-size: contain;
+  padding: 20px;
+}
